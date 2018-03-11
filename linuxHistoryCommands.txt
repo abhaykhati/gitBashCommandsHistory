@@ -1,0 +1,46 @@
+  119  echo hi
+  350  echo HISTCONTROL
+  356  echo $HISTSIZE 
+  367  echo HISTCONTROL
+  372  echo $HISTSIZE 
+  380  echo $HISTSIZE
+  382  echo $HISTSIZE 
+  384  echo $HISTSIZE 
+  387  echo $HISTCONTROL 
+  416  echo HIS echo HIS
+  417   echo $HISTSIZE
+  418  history | grep echo
+  419  echo $HISTCONTROL
+  431  history | grep export | grep echo
+  432  history | grep export |echo
+  438  history | grep echo >linuxHistoryCommands.txt # to append echo command
+  324  export HISTCONTROL=ignorespace
+  334  export HISTCONTROL=ignorespace
+  340  export HISTCONTROL=ignorespace
+  341  export HISTCONTROL=ignoredups
+  343  export HISTCONTROL=ignoredups
+  349  export HISTCONTROL=erasedups
+  353  history | grep git | grep export
+  354  history | grep export
+  357  history | grep git, export
+  358  history | grep git  export
+  359  history | grep git  |export
+kjldfsk;ljdsf
+  366  export HISTCONTROL=erasedups
+  369  history | grep git | grep export
+  370  history | grep export
+  373  history | grep git, export
+  374  history | grep git  export
+  375  history | grep git  |export
+  381  history | grep export
+  385  history | grep export
+  386  export HISTCONTROL=erasedups
+  408  hisotry | grep export
+  409  history | grep export
+  411  export HISTSIZE=1000
+  431  history | grep export | grep echo
+  432  history | grep export |echo
+  433  history | grep export > linuxHistoryCommands.txt # History commands appended 
+  439  history | grep export >>linuxHistoryCommands.txt # to append export command
+   # linux command to cut line numbers 
+    

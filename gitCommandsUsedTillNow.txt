@@ -1,0 +1,262 @@
+   92  history |grep myRepoFromExistingSource.git
+  131  cd gitRepo/
+  140  git init
+  141  git status
+  142  git help add
+  145  git branch
+  147  git status
+  148  git add .
+  149  git status
+  150  git commit -m "demoCommitCheckout"
+  151  git status
+  155  git status
+  157  git help commit 
+  158  git commit -am "1st commit -robot.txt"
+  159  git log --oneline
+  162  git staus
+  163  git status
+  164  git commit -am "2nd commit -robot.txt"
+  165  git status
+  168  git commit -am "3rd commit -robot.txt"
+  171  git status
+  172  git commit -am "4th commit -robot.txt"
+  174  git commit -am "5th commit -robot.txt"
+  176  git log  --oneline
+  178  cd gitRepo/
+  180  git branch
+  182  git branch
+  203  git status
+  204  git log --oneline
+  210  git log --oneline 
+  211  git checkout f76bed8
+  212  git branch
+  213  git checkout master
+  215  git branch
+  216  git log --oneline 
+  217  git checkout f76bed8
+  218  git checkout master
+  220  git log --oneline 
+  221  git checkout f76bed8
+  222  git log --oneline 
+  224  git commit -am 
+  225  git commit -am " 6th commit to robots.txt "
+  227  git log   --oneline 
+  228  git checkout master
+  229  git log   --oneline
+  230  git checkout f76bed8
+  231  git log --oneline 
+  234  git log --oneline 
+  235  git branch
+  237  git commit -am " 6th commit to robots.txt  reverted demo file"
+  238  git status
+  239  git log --oneline 
+  240   git checkout -b newBranch
+  241  git log --oneline 
+  242  git checkout master
+  243  git log --oneline 
+  244  git branch newBranch 
+  245  git branch
+  246  git checkout newBranch 
+  247  git checkout master
+  249  git checkout newBranch 
+  253  git brnach
+  254  git branch
+  255  git checkout master
+  260  git branch
+  261  git init undo-demo-git-repo
+  262  cd undo-demo-git-repo/
+  264  git status
+  265  git commit -am " 1st commit checkoutfile"
+  266  git status
+  267  git log --oneline 
+  269  git branch
+  271  git status
+  272  git add -m " 1st commit -checkoutfile"
+  273  git add  " 1st commit -checkoutfile"
+  277  git add *
+  278  git status
+  279  git commit -m " 1 st commit -checkoutfile.txt"
+  281  git status
+  282  git add *
+  283  git status
+  284  git commit -m " 2nd commit  - checkoutfile.txt"
+  285  git log --oneline 
+  287  git status
+  288  git add *
+  289  git commit -m " 3rd commit  - checkoutfile.txt"
+  290  git status
+  292  git status
+  293  git add *
+  294  git commit -m " 4th commit  - checkoutfile.txt"
+  296  git log --oneline 
+  297  git branch
+  299  git help checkout
+  300  git checkout 
+  301  git checkout c5d95d9 
+  302  git checkout master
+  303  git log --oneline 
+  304  git branch
+  305  git checkout c5d95d9 checkoutfile.txt
+  306  git log --oneline 
+  307  git status
+  308  git checkout head checkoutfile.txt
+  309  git status
+  310  git branch
+  311  git log --oneline 
+  314  git branch
+  315  git log --oneline 
+  316  git log -s
+  317  git log -long
+  320   git log --oneline 
+  321  git checkout c5d95d9 checkoutfile.txt
+  322  git status
+  323  git commit -m " 5th commit - checkoutfile.txt"
+  324  git log --oneline 
+  334  git status
+  335  git add *
+  336  git status
+  337  git commit -m "commit prior to revert"
+  338  git log --oneline 
+  339  git checkout 13fcf93
+  340  git checkout 13fcf93 checkoutfile.txt
+  341  git log --oneline 
+  342  git checkout head a468d31
+  343  git checkout head a468d31 checkoutfile.txt
+  344  git log
+  347  git log --oneline 
+  350  git status
+  351  git log --oneline 
+  352  git commit -m "6the commit checkoutfile.txt"
+  353  git log --oneline 
+  354  git status
+  358  git log --oneline 
+  359  git status
+  360  git log --oneline 
+  361  git checkout head checkoutfile.txt
+  362  git status
+  363  git status
+  365  git log --oneline 
+  367  git checkout c5d95d9 checkoutfile.txt
+  368  git status
+  369  git log --oneline 
+  372  git status
+  373  git checkout head checkoutfile.txt
+  374  git status
+  375  git log --oneline 
+  376  git checkout HEAD checkoutfile.txt
+  378  git status
+  380  git log --oneline 
+  381  git status
+  382  git checkout 13fcf93 checkoutfile.txt
+  383  git status
+  384  git log --oneline 
+  390  git status
+  391  ggitgksksks      ssfsafasfsafasfexit
+  399  cd gitRepo/
+  405  cd undo-demo-git-repo/
+  411  git status
+  412  git log --oneline 
+  415  git status
+  417  git add .
+  418  git status
+  419  git commit -m " checkout prior to reset command"
+  420  git status
+  421  git log --oneline 
+  422  git branch
+  423  git checkout 13fcf93
+  424  git checkout head checkoutfile.txt
+  425  git status
+  426  git branch
+  427  git checkout 479f4f3 checkoutfile.txt
+  428  git log --oneline 
+  430  git status
+  431  git commit -m " reset command show"
+  432  git status
+  433  git log --oneline 
+  434  git checkout head checkoutfile.txt
+  435  git status
+  436  git checkout da4dad6
+  437  git status
+  438  git log --oneline 
+  440  git status
+  441  git log --oneline 
+  443  git revert head
+  444  git log --oneline 
+  450  cd gitRepo/
+  455  git log --oneline
+  457  git log --oneline
+  459  git log robots.txt
+  461  git log robots.txt --oneline 
+  462  git log --oneline robots.txt
+  463  git log --format --oneline
+  464  git log --format=oneline 
+  465  git log --format=medium 
+  466  git log --format=full
+  467  git log --format=fuller
+  468  git log -2
+  469  git log -2 --oneline 
+  470  git log --format=graph
+  471  git log --pretty= format: graph
+  472  git log --format=graph
+  473  git log --format=graph
+  476  git log
+  478  git log --oneline 
+  479  git log -p
+  481  git log --stat
+  482  git log --stat --oneline 
+  484  git log --stat -n1
+  486  git shortlog 
+  487  git log --graph 
+  488  git log --graph --oneline 
+  489  git log --graph --oneline  --decorate
+  491  history | tail -100 | grep git
+  492  history | head -100 | grep git
+  493  history | grep git
+  494  history | grep git > gitCommands.txt
+  496  cat gitCommands.txt 
+  497  history | grep git > gitCommands.pdf
+  499  cat gitCommands.pdf
+  506  cd gitRepo/
+  508  git log --graph 
+  510  git log --author=abhay
+  511  git log --grep=weire
+  512  git log --grep=2nd
+  513  git log --grep=5
+  514  git log --grep=6th
+  519  git log robots.txt
+  520  git log robots.txt --oneline 
+  521  git log --oneline  robots.txt
+  525  cd undo-demo-git-repo/
+  526  git lod
+  527  git log
+  528  git log --oneline 
+  530  git log --author=abhay
+  532  git log --name-
+  533  git log --name-only 
+  534  git log --merges
+  535  git head
+  537  git log
+  539  git log --oneline
+  541  git log -p
+  542  git log diff
+  543  git diff
+  544  git diff checkoutfile.txt
+  545  git log --oneline 
+  549  git status
+  550  git checkout checkoutfile.txt
+  551  git status
+  553  git reflog
+  561  history | grep git > gitCommandsUsedTillNow.txt
+  563  cat gitCommandsUsedTillNow.txt 
+  564  git log --branches=*.
+  567  git branch
+  568  git log --branches=*.
+  569  git log --branches=*
+  571  git branch -a
+  572  git checkout master
+  573  git branch
+  575  git log --oneline 
+  576  git log master
+  577  git log master --oneline 
+  578  git log demoBranch  --oneline 
+  583  history | grep git > gitCommandsUsedTillNow.txt

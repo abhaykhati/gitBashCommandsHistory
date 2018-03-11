@@ -1,0 +1,419 @@
+ls -l
+cd demo-commit-checkout/
+ls -l
+git status
+git log --oneline
+ls -l
+cat robots.txt 
+git log --oneline 
+git checkout f76bed8
+git branch
+git checkout master
+git branch
+git log --oneline 
+git checkout f76bed8
+git checkout master
+git log --oneline 
+git checkout f76bed8
+git log --oneline 
+vi robots.txt 
+git commit -am 
+git commit -am " 6th commit to robots.txt "
+git log   --oneline 
+git checkout master
+git log   --oneline
+git checkout f76bed8
+git log --oneline 
+cat robots.txt 
+git log --oneline 
+git branch
+vi robots.txt 
+git commit -am " 6th commit to robots.txt  reverted demo file"
+git status
+git log --oneline 
+ git checkout -b newBranch
+git log --oneline 
+git checkout master
+git log --oneline 
+git branch newBranch 
+git branch
+git checkout newBranch 
+git checkout master
+cat robots.txt 
+git checkout newBranch 
+cat robots.txt 
+git brnach
+git branch
+git checkout master
+cd ..
+git branch
+git init undo-demo-git-repo
+cd undo-demo-git-repo/
+vi checkoutfile.txt
+git status
+git commit -am " 1st commit checkoutfile"
+git status
+git log --oneline 
+git branch
+ls -l
+git status
+git add -m " 1st commit -checkoutfile"
+git add  " 1st commit -checkoutfile"
+ls -l
+git add *
+git status
+git commit -m " 1 st commit -checkoutfile.txt"
+vi checkoutfile.txt 
+git status
+git add *
+git status
+git commit -m " 2nd commit  - checkoutfile.txt"
+git log --oneline 
+vi checkoutfile.txt 
+git status
+git add *
+git commit -m " 3rd commit  - checkoutfile.txt"
+git status
+vi checkoutfile.txt 
+git status
+git add *
+git commit -m " 4th commit  - checkoutfile.txt"
+git log --oneline 
+git branch
+cat checkoutfile.txt 
+git help checkout
+git checkout 
+git checkout c5d95d9 
+git checkout master
+git log --oneline 
+git branch
+git checkout c5d95d9 checkoutfile.txt
+git log --oneline 
+git status
+git checkout head checkoutfile.txt
+git status
+git branch
+git log --oneline 
+git branch
+git log --oneline 
+git log -s
+git log -long
+ git log --oneline 
+git checkout c5d95d9 checkoutfile.txt
+git status
+git commit -m " 5th commit - checkoutfile.txt"
+git log --oneline 
+cat checkoutfile.txt 
+echo hi
+vi checkoutfile.txt 
+cat checkoutfile.txt 
+git status
+git add *
+git status
+git commit -m "commit prior to revert"
+git log --oneline 
+git checkout 13fcf93
+git checkout 13fcf93 checkoutfile.txt
+git log --oneline 
+git checkout head a468d31
+git checkout head a468d31 checkoutfile.txt
+git log
+git log --oneline 
+cat checkoutfile.txt 
+vi checkoutfile.txt 
+git status
+git log --oneline 
+git commit -m "6the commit checkoutfile.txt"
+git log --oneline 
+git status
+cat checkoutfile.txt 
+cat checkoutfile.txt 
+git log --oneline 
+git status
+git log --oneline 
+git checkout head checkoutfile.txt
+git status
+git status
+git log --oneline 
+cat checkoutfile.txt 
+git checkout c5d95d9 checkoutfile.txt
+git status
+git log --oneline 
+cat checkoutfile.txt 
+git status
+git checkout head checkoutfile.txt
+git status
+git log --oneline 
+git checkout HEAD checkoutfile.txt
+GIT STATUS
+git status
+git log --oneline 
+git status
+git checkout 13fcf93 checkoutfile.txt
+git status
+git log --oneline 
+pw
+vi checkoutfile.txt 
+git status
+ggitgksksks      ssfsafasfsafasfexit
+exit
+cd c:
+cd d:gi*
+ls -l
+clar
+ls -l
+cd undo-demo-git-repo/
+ls -l
+cat checkoutfile.txt 
+ls -l
+git status
+git log --oneline 
+vi checkoutfile.txt 
+git status
+cat checkoutfile.txt 
+git add .
+git status
+git commit -m " checkout prior to reset command"
+git status
+git log --oneline 
+git branch
+git checkout 13fcf93
+git checkout head checkoutfile.txt
+git status
+git branch
+git checkout 479f4f3 checkoutfile.txt
+git log --oneline 
+cat checkoutfile.txt 
+git status
+git commit -m " reset command show"
+git status
+git log --oneline 
+git checkout head checkoutfile.txt
+git status
+git checkout da4dad6
+git status
+git log --oneline 
+cat checkoutfile.txt 
+git status
+git log --oneline 
+cat checkoutfile.txt 
+git revert head
+git log --oneline 
+cat checkoutfile.txt 
+exit
+cd :
+ls -l
+cd demo-commit-checkout/
+ls -l
+git log --oneline
+git log --oneline
+ls -l
+git log robots.txt
+git log robots.txt --oneline 
+git log --oneline robots.txt
+git log --format --oneline
+git log --format=oneline 
+git log --format=medium 
+git log --format=full
+git log --format=fuller
+git log -2
+git log -2 --oneline 
+git log --format=graph
+git log --pretty= format: graph
+git log --format=graph
+git log --format=graph
+git log
+git log --oneline 
+git log -p
+git log --stat
+git log --stat --oneline 
+git log --stat -n1
+clear 
+git shortlog 
+git log --graph 
+git log --graph --oneline 
+git log --graph --oneline  --decorate
+history | tail -100 | grep git
+history | head -100 | grep git
+history | grep git
+history | grep git > gitCommands.txt
+ls -l
+cat gitCommands.txt 
+history | grep git > gitCommands.pdf
+ls -l | grep .pdf
+cat gitCommands.pdf
+exit
+ls -l
+cd :
+cd demo-commit-checkout/
+git log --graph 
+git log --author=abhay
+git log --grep=weire
+git log --grep=2nd
+git log --grep=5
+git log --grep=6th
+ls -l
+ls -l
+git log robots.txt
+git log robots.txt --oneline 
+git log --oneline  robots.txt
+cd ..
+ls -l
+cd undo-demo-git-repo/
+git lod
+git log
+git log --oneline 
+git log --author=abhay
+git log --name-
+git log --name-only 
+git log --merges
+git head
+git log
+git log --oneline
+cat checkoutfile.txt 
+git log -p
+git log diff
+git diff
+git diff checkoutfile.txt
+git log --oneline 
+cat checkoutfile.txt 
+vi checkoutfile.txt 
+cat checkoutfile.txt 
+git status
+git checkout checkoutfile.txt
+git status
+git reflog
+ls -l
+cd..
+cd ..
+history | grep git > gitCommandsUsedTillNow.txt
+ls -l
+cat gitCommandsUsedTillNow.txt 
+git log --branches=*.
+ls -l
+cd myRepoFromScratch/
+git branch
+git log --branches=*.
+git log --branches=*
+git branch -a
+git checkout master
+git branch
+ls -l
+git log --oneline 
+git log master
+git log master --oneline 
+git log demoBranch  --oneline 
+ls -l
+cd ..
+ls -l
+history | grep git > gitCommandsUsedTillNow.txt
+cat gitCommandsUsedTillNow.txt 
+exit
+HISTCONTROL 
+export HISTCONTROL=ignorespace
+git branch
+git log --oneline 
+git log master
+git log master --oneline 
+git log demoBranch  --oneline 
+cd ..
+history | grep git > gitCommandsUsedTillNow.txt
+cat gitCommandsUsedTillNow.txt 
+HISTCONTROL 
+export HISTCONTROL=ignorespace
+cd :
+cd demo-commit-checkout/
+git clean -n
+git status
+history |grep hist*
+export HISTCONTROL=ignorespace
+export HISTCONTROL=ignoredups
+history | tail -200 | grep git
+export HISTCONTROL=ignoredups
+history | tail -200 | grep git
+history  | grep git
+history | grep git
+ls
+ls -l
+export HISTCONTROL=erasedups
+echo HISTCONTROL
+CLEAR
+history | grep git 
+history | grep git | grep export
+history | grep export
+set HISTSIZE=1000
+echo $HISTSIZE 
+history | grep git, export
+history | grep git  export
+history | grep git  |export
+exit
+export HISTCONTROL=ignoredups
+history | tail -200 | grep git
+history  | grep git
+history | grep git
+ls
+export HISTCONTROL=erasedups
+echo HISTCONTROL
+history | grep git 
+history | grep git | grep export
+history | grep export
+set HISTSIZE=1000
+echo $HISTSIZE 
+history | grep git, export
+history | grep git  export
+history | grep git  |export
+cd mingw64/ ls-l
+cd mingw64
+cd etc
+cd..
+echo $HISTSIZE
+history | grep export
+echo $HISTSIZE 
+EXPORT HISTSIZE=1000
+echo $HISTSIZE 
+history | grep export
+export HISTCONTROL=erasedups
+echo $HISTCONTROL 
+CLEAR
+cd :
+cd undo-demo-git-repo/
+cd ..
+cd demo-commit-checkout/
+git status
+git clean
+ls -l
+git clean -n
+git clean -n -f
+git clean -f
+git clean -di
+esit
+exit
+ls -l
+cat ReleaseNotes.html 
+cat ReleaseNotes.html -p
+cat ReleaseNotes.html -l
+man cat
+clear 
+cat --help
+hisotry | grep export
+history | grep export
+HISTCONTROL=erasedups
+export HISTSIZE=1000
+hisotry | grep $*
+hisotry | grep $
+history |grep %
+history |grep $
+echo HIS echo HIS
+ echo $HISTSIZE
+history | grep echo
+echo $HISTCONTROL
+history 
+cat ~/.bash_history
+history | cut -c 5-
+history | cut -c 8-
+clear
+cd d:
+cd gitRepo/
+pwd
+ls -al
+history | cut -c 8- > gitCommandsWithHistory.txt
