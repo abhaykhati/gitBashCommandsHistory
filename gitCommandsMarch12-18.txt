@@ -1,0 +1,198 @@
+git status
+git checkout checkoutfile.txt
+git status
+git reflog
+history | grep git > gitCommandsUsedTillNow.txt
+cat gitCommandsUsedTillNow.txt 
+git log --branches=*.
+git branch
+git log --branches=*.
+git log --branches=*
+git branch -a
+git checkout master
+git branch
+git log --oneline 
+git log master
+git log master --oneline 
+git log demoBranch  --oneline 
+history | grep git > gitCommandsUsedTillNow.txt
+cat gitCommandsUsedTillNow.txt 
+git branch
+git log --oneline 
+git log master
+git log master --oneline 
+git log demoBranch  --oneline 
+history | grep git > gitCommandsUsedTillNow.txt
+cat gitCommandsUsedTillNow.txt 
+cd gitRepo/
+git clean -n
+git status
+history | tail -200 | grep git
+history | tail -200 | grep git
+history  | grep git
+history | grep git
+history | grep git 
+history | grep git | grep export
+history | grep git, export
+history | grep git  export
+history | grep git  |export
+history | tail -200 | grep git
+history  | grep git
+history | grep git
+history | grep git 
+history | grep git | grep export
+history | grep git, export
+history | grep git  export
+history | grep git  |export
+cd gitRepo/
+cd undo-demo-git-repo/
+git status
+git clean
+git clean -n
+git clean -n -f
+git clean -f
+git clean -di
+cd undo-demo-git-repo/
+git status
+git clean
+git clean -n
+git clean -n -f
+git clean -f
+git clean -di
+cd gitRepo/
+history | cut -c 8- > gitCommandsWithHistory.txt
+cat gitCommandsWithHistory.txt 
+cd gitRepo/
+git branch
+git log 
+git branch
+git checkout newBranch 
+git branch
+git log --oneline 
+git branch
+git checkouot 
+git checkout master 
+git branch
+git brnach
+git branch
+cd undo-demo-git-repo/
+git log checkoutfile.txt
+git log --oneline 
+git log -s
+git log --oneline 
+history | grep git, export
+history | grep git  export
+history | grep git  |export
+history | tail -200 | grep git
+history  | grep git
+history | grep git
+history | grep git 
+history | grep git | grep export
+history | grep git, export
+history | grep git  export
+history | grep git  |export
+cd gitRepo/
+git clean -n -f
+git clean -di
+git clean -n -f
+git clean -di
+cd gitRepo/
+history | cut -c 8- > gitCommandsWithHistory.txt
+cat gitCommandsWithHistory.txt 
+cd gitRepo/
+git log 
+git checkout newBranch 
+git checkouot 
+git checkout master 
+git brnach
+git log checkoutfile.txt
+git log -s
+cd gitRepo/
+cd undo-demo-git-repo/
+git add myCheckOutFile2.txt 
+git checkout myCheckOutFile2.txt
+git reset head myCheckOutFile2.txt
+git help rm
+git clean
+md git-clean-demo
+mkdir git-clean-demo
+cd git-clean-demo/
+git add.
+git rm --cached clean-demo-file 
+git commit -m "commit of a tracked file by AK"
+git clean -f
+git -n
+git clean -n
+git clean -f clean-demo-dir/
+git clean -df
+cd .git/
+vi .gitignore
+cat .gitignore 
+git add .gitignore 
+git commit -m "commiting .gitignore first time"
+git clean -xf
+cd .gitignore 
+cd gitBashHistory/
+git add .
+git commit -m "git commands 1st commit"
+git staus
+git remote add origin remote https://github.com/abhaykhati/gitBashHistoryCommands.git
+git remote add -m https://github.com/abhaykhati/gitBashHistoryCommands.git
+git remote add https://github.com/abhaykhati/gitBashHistoryCommands.git
+git remote add origin https://github.com/abhaykhati/gitBashHistoryCommands.git
+git help push
+git init
+git remote -v
+git remote -v # to see which remote repo it is pointing to 
+git pull
+git branch
+git clone https://github.com/abhaykhati/gitBashHistoryCommands.git
+git status
+git log --oneline 
+git pull origin master
+git push origin master
+git merge-recursive
+cd gitRepo/
+cd gitBashHistory/
+git status
+git log --oneline 
+git reset head --force
+git reset head --hard 
+git log --oneline 
+git branch
+git revert 
+git revert head
+git status
+git log --oneline 
+cd gitBashHistoryCommands/
+git status
+git clone https://github.com/abhaykhati/gitBashHistoryCommands.git
+git clone
+git clone origin master https://github.com/abhaykhati/gitBashHistoryCommands.git
+git clone 
+git clone git@github.com:abhaykhati/gitBashHistoryCommands.git
+git clone origin master https://github.com/abhaykhati/gitBashHistoryCommands.git
+git clone 
+git clone git@github.com:abhaykhati/gitBashHistoryCommands.git
+cd d:git*
+cd gitRepo/
+git clone https://github.com/abhaykhati/gitBashCommandsHistory.git
+cd gitBashCommandsHistory/
+git add .
+git commit -m " 1st Commit for Git Bash Commands"
+git log --oneline 
+git log -s
+git log -long
+git branch
+git push origin master
+git log --oneline 
+git log --graph 
+git remote -v
+git remote
+git status
+git pull origin master
+cd d:/git*
+cd gitBashCommandsHistory/
+history |grep git 
+history |grep git > command historyMarch11.txt
+history | grep git |cut -c 8- > gitCommandsMarch12-18.txt
