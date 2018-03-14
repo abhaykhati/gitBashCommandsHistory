@@ -1,0 +1,6 @@
+
+  394  git config --global  diff.tool p4merge #to set diff.tool as p4merge <p4merge is a name of the .exe>
+  395  git config --global  diff.tool p4merge.path "C:/Program Files/Perforce/p4merge.exe" # to set the path for p4merge installation wihtout setting PATH Environment Variable in WINDOWS
+  399  git config --global difftool.prompt false # to disable prompt everytime the diftool is launched
+  405  history | grep diff > gitDiffEditorSettingCommands.txt  
+ 
