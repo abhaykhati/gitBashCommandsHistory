@@ -13,3 +13,5 @@ BUSINESS VENTURE:
 6th milestone: ADMIN dept purchased office stationary, PURCHASE dept purchased computers and printers
 
 7th milestone: we have developed an MVP (MININUM VIABLE PRODUCT)  for demo
+
+8th milestone: launching of BETA product
