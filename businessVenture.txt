@@ -11,3 +11,5 @@ BUSINESS VENTURE:
 5th milestone: hiring for HR, ADMIN, PURCHASE dept
 
 6th milestone: ADMIN dept purchased office stationary, PURCHASE dept purchased computers and printers
+
+7th milestone: we have developed an MVP (MININUM VIABLE PRODUCT)  for demo
