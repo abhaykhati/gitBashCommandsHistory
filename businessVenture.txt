@@ -15,3 +15,7 @@ BUSINESS VENTURE:
 7th milestone: we have developed an MVP (MININUM VIABLE PRODUCT)  for demo
 
 8th milestone: launching of BETA product
+
+9th milestone: BETA product launched
+
+
