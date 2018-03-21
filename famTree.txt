@@ -1,0 +1,6 @@
+
+		THIS IS THE FILE FOR DEMO OF GIT BRANCH MERGING
+		------------------------------------------------
+
+		human1 is added while in branch master -sada
+i
