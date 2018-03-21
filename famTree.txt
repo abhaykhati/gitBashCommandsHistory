@@ -2,5 +2,8 @@
 		THIS IS THE FILE FOR DEMO OF GIT BRANCH MERGING
 		------------------------------------------------
 
-		human1 is added while in branch master -sada
-i
+		human1 is added while in branch master -sada added from master branch
+
+		human2 is added while in branch famTreeBranch -ramk
+
+		
