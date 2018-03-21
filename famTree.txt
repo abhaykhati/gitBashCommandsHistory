@@ -7,5 +7,6 @@
 		human2 is added while in branch famTreeBranch -ramk
 
 		human3 is added once again at famTreeBranch -ank
-
+		
+		human 5 added by master branch to demo 3 way merge 
 		
