@@ -16,6 +16,4 @@
 
 		git commit after amend command
 
-		welcome
-
 		

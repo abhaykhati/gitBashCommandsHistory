@@ -3,5 +3,4 @@
 
 	 we will manage sales team under the hood MARKETING MANAGER	
 
-	 we need to identify sales areas
-	 welcome2
+	 we need to identify sales areas 
