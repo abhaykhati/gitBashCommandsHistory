@@ -16,6 +16,6 @@
 
 		git commit after amend command
 
-		welcome
+                for tag ver-1.2
 
 		
