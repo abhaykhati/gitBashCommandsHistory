@@ -1,0 +1,5 @@
+  432  git config --global core.editor "'C:/Program Files (x86)/Meld/Meld.exe' -multiInst -nosession"
+  435  git config --global core.editor "'C:/Program Files (x86)/Meld/Meld.exe' -multiInst -nosession"
+  461  history | grep core.editor
+  470  history | grep core.editor > #gitBashCoreEditorCommand.txt
+  471  history | grep core.editor > gitBashCoreEditorCommand.txt
