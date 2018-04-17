@@ -1,0 +1,4 @@
+git config --global core.editor "'C:/Program Files (x86)/EditPlus 3/editplus.exe' -w"  # -w is use to denote that don't quit until saved
+# in order to start editing using editplus3 use following command
+editplus gitTextEditorSetToEditPlus3.txt
+
